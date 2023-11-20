@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Editor-specific files
+*.suo
+*.user
+*.sln.docstates
+*.tmproj
+*.sublime-workspace
+*.sublime-project
+
+# Build and compile files
+*.log
+*.pid
+*.out
+*.pid.lock
+
+# Dependency directories
+bower_components/
+jspm_packages/
